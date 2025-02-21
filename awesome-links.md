@@ -17,6 +17,11 @@ A flat-file CMS that supports Markdown, plugins, and themes. It offers an intuit
 ### [MD-CMS](https://github.com/philipptrenz/md-cms)
 A lightweight, PHP-based CMS that renders Markdown files as a structured website. It features automatic navigation and clean URLs.
 
+## Self-Hosted Cloud & File Management
+
+### [Nextcloud](https://nextcloud.com/)
+An open-source, self-hosted cloud storage and collaboration platform that allows users to sync and share files, manage calendars, and integrate various productivity apps while maintaining full control over their data.
+
 ## Website Graveyard
 
 ### [DTStyle](https://dtstyle.net/)
