@@ -22,6 +22,14 @@ A lightweight, PHP-based CMS that renders Markdown files as a structured website
 ### [Nextcloud](https://nextcloud.com/)
 An open-source, self-hosted cloud storage and collaboration platform that allows users to sync and share files, manage calendars, and integrate various productivity apps while maintaining full control over their data.
 
+## Curated Lists & Resources
+
+### [Awesome Lists – GitHub](https://github.com/sindresorhus/awesome) ⭐️
+A massive, community-driven collection of high-quality lists covering various topics, from programming languages and tools to design, productivity, and beyond. Maintained on GitHub, this serves as a gateway to curated knowledge across the internet.
+
+### [Blog Platforms – Manuel Moreale](https://manuelmoreale.com/blog-platforms)
+A well-researched and continuously updated list of various blogging platforms, ranging from traditional CMSs to minimalist, niche solutions. A great resource for writers and developers exploring different tools for publishing online.
+
 ## Website Graveyard
 
 ### [DTStyle](https://dtstyle.net/)
