@@ -16,6 +16,11 @@
 
 **[Nextcloud](https://nextcloud.com/)** - An open-source, self-hosted cloud storage and collaboration platform that allows users to sync and share files, manage calendars, and integrate various productivity apps while maintaining full control over their data.
 
+## Browser Extensions
+
+**[ChatGPT Chat Save](https://chromewebstore.google.com/detail/chatgpt-chat-save/bgkkpfkeoadobimmbgpmkkmahcajlkia)** - A Chrome extension that allows users to save and manage ChatGPT conversations, making it easier to revisit and organize AI-generated responses.
+
+
 ## Curated Lists & Resources
 
 **[Awesome Lists – GitHub](https://github.com/sindresorhus/awesome) ⭐️** - A massive, community-driven collection of high-quality lists covering various topics, from programming languages and tools to design, productivity, and beyond. Maintained on GitHub, this serves as a gateway to curated knowledge across the internet.
