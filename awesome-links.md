@@ -1,5 +1,16 @@
 # awesome-links
 
+## AI Tools
+
+**[ChatGPT](https://chatgpt.com/)** - OpenAI’s AI-powered chatbot that assists with text generation, answering questions, coding help, and more.
+
+**[ChatGPT Custom GPTs](https://chatgpt.com/gpts/mine)** - A section of ChatGPT that allows users to create, customize, and manage their own personalized GPT models.
+
+**[ChatGPT Tasks](https://chatgpt.com/tasks)** - A specialized feature for automating repetitive or structured tasks using AI.
+
+**[Grok AI](https://grok.com/)** - An AI chatbot developed by xAI, designed to integrate with X (formerly Twitter) and offer real-time, context-aware responses.
+
+
 ## Markdown-Based CMS Platforms
 
 **[Typemill](https://typemill.net/)** - A lightweight and fast flat-file CMS designed for content creators, ideal for documentation, blogs, and structured writing. It supports Markdown, YAML-based metadata, and various customization options.
@@ -15,6 +26,15 @@
 ## Self-Hosted Cloud & File Management
 
 **[Nextcloud](https://nextcloud.com/)** - An open-source, self-hosted cloud storage and collaboration platform that allows users to sync and share files, manage calendars, and integrate various productivity apps while maintaining full control over their data.
+
+## Writing Assistance
+
+**[Grammarly](https://www.grammarly.com/)** - An AI-powered writing assistant that helps improve grammar, spelling, punctuation, and style. It offers real-time suggestions for clarity and conciseness across various writing platforms.
+
+**[ProWritingAid](https://prowritingaid.com/)** - A powerful AI-driven writing assistant that helps with grammar, style, and readability improvements, offering detailed insights for writers.
+
+**[NovelAI](https://novelai.net/)** - A storytelling and AI-assisted writing tool designed for creative writers. It provides AI-generated text suggestions, character development tools, and flexible customization options for generating stories
+
 
 ## Browser Extensions
 
