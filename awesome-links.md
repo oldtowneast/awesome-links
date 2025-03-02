@@ -1,5 +1,14 @@
 # awesome-links
 
+- [AI Tools](#ai-tools)
+- [Markdown-Based CMS Platforms](#markdown-based-cms-platforms)
+- [Self-Hosted Cloud & File Management](#self-hosted-cloud---file-management)
+- [Writing Assistance](#writing-assistance)
+- [Browser Extensions](#browser-extensions)
+- [Curated Lists & Resources](#curated-lists--resources)
+- [Markdown & TOC Generators](#markdown--toc-generators)
+- [Website Graveyard](#website-graveyard)
+
 ## AI Tools
 
 **[ChatGPT](https://chatgpt.com/)** - OpenAI’s AI-powered chatbot that assists with text generation, answering questions, coding help, and more.
@@ -46,6 +55,16 @@
 **[Awesome Lists – GitHub](https://github.com/sindresorhus/awesome) ⭐️** - A massive, community-driven collection of high-quality lists covering various topics, from programming languages and tools to design, productivity, and beyond. Maintained on GitHub, this serves as a gateway to curated knowledge across the internet.
 
 **[Blog Platforms – Manuel Moreale](https://manuelmoreale.com/blog-platforms)** - A well-researched and continuously updated list of various blogging platforms, ranging from traditional CMSs to minimalist, niche solutions. A great resource for writers and developers exploring different tools for publishing online.
+
+## Markdown & TOC Generators
+
+**[Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)** - A simple online tool that automatically generates a Table of Contents for Markdown files by parsing headings and converting them into internal links.
+
+**[GitHub Markdown TOC (CLI)](https://github.com/ekalinin/github-markdown-toc)** - A command-line tool that automatically creates and updates a Table of Contents for GitHub Markdown documents.
+
+**[BitDown TOC](https://bitdowntoc.derlin.ch/)** - An online Markdown TOC generator that quickly converts headings into anchor-linked lists for easy navigation.
+
+**[Markdown TOC Gen](https://github.com/thesilk-tux/markdown-toc-gen)** - A Python-based script that generates a structured Table of Contents for Markdown files, ideal for documentation and GitHub repositories.
 
 ## Website Graveyard
 
